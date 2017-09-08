@@ -8,7 +8,7 @@ public class BandeiraFactory {
         int horarioPartida = c.get(Calendar.HOUR_OF_DAY);
         int diaSemana = c.get(Calendar.DAY_OF_WEEK);
 
-        if (diaSemana==6 && Boolean.valueOf(PropertiesLoader.getProperty("bandeiraTres"))){
+        if (diaSemana==1 && Boolean.valueOf(PropertiesLoader.getProperty("bandeiraTres"))){
             return new BandeiraTres();
         }
         else if ((horarioPartida >= 0 && horarioPartida <= 6)
