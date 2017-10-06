@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-5.1.6-bin">
+    <archive path="/home/notrealgabu/Área de Trabalho/mysql-connector-java-5.1.6-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+
