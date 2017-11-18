@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/asm.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-jpamodelgen-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/hibernate-tools.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/javassist.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/jta.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/notrealgabu/eclipse-workspace/JPA/libs/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
